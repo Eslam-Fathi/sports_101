@@ -1,16 +1,12 @@
-# sports_101
+# sports 101
+A Flutter mobile app developed during 2023 iTi summer course that provides sports information on football. The app utilizes the AllSports API based on the course requirements.
 
-A new Flutter project.
+## Features
+Cubit for State Management: Utilizes the Cubit architecture for efficient and clean state management, ensuring a smooth user experience.
+Sports Data: Fetches data from the AllSports API to provide information on a wide range of sports, including scores, schedules, and player statistics.
+User-Friendly Interface: Designed with a user-friendly interface to enhance the overall experience, making it easy for users to navigate and find relevant sports information.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Tech Stack
+Flutter: Cross-platform framework for building mobile applications.
+Cubit: State management library for Flutter applications.
+AllSports API: External API providing comprehensive sports data.
